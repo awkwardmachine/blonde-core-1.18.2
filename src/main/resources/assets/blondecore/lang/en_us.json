@@ -1,5 +1,10 @@
 {
   "item.blondecore.cobalt_ingot": "Cobalt Ingot",
   "item.blondecore.raw_cobalt": "Raw Cobalt",
-  "item.blondecore.cobalt_nugget": "Cobalt Nugget"
+  "item.blondecore.cobalt_nugget": "Cobalt Nugget",
+
+  "block.blondecore.cobalt_block": "Block of Cobalt",
+  "block.blondecore.cobalt_ore": "Cobalt Ore",
+
+  "itemGroup.blondecore": "Blonde Core"
 }
