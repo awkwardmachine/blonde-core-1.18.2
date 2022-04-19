@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "blondecore_cobalt_block"
+          "name": "blondecore:cobalt_block"
         }
       ],
       "conditions": [
